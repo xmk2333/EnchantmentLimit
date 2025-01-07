@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README_cn.md)
+[English](README.md) | [简体中文](README_CN.md)
 
 # EnchantmentLimit 插件 🎉
 
