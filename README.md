@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README_cn.md)
+
 # EnchantmentLimit Plugin 🎉
 
 Welcome to the EnchantmentLimit plugin! This plugin allows you to set limits on enchantment levels for items in Minecraft. It also provides commands to bypass these limits for specific items. 
@@ -69,5 +71,3 @@ If you have any questions or need support, feel free to join our community!
 ## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Enjoy the plugin and happy enchanting! 🪄
