@@ -7,7 +7,6 @@ Welcome to the EnchantmentLimit plugin! This plugin allows you to set limits on 
 - **Enchantment Level Limits**: Set maximum levels for different enchantments.
 - **Bypass Command**: Allow players to bypass enchantment limits for specific items.
 - **Localization**: Customizable messages for different events.
-- **Plugin Support**: Supports ecoEnchants, ExcellentEnchants, and CrazyEnchantments plugins.
 - **Event Handling**: Monitors various events to enforce enchantment limits.
 
 ## Commands 📜
@@ -35,6 +34,7 @@ The plugin generates a default configuration file on first run. You can edit thi
 enchantments:
   minecraft:sharpness: 5
   minecraft:protection: 4
+  # Following omission
 messages:
   limitExceeded: "&cYou have exceeded the enchantment limit!"
   configReloaded: "&aEnchantmentLimit configuration reloaded."
