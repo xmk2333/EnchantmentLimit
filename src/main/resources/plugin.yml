@@ -1,0 +1,15 @@
+name: EnchantmentLimit
+version: '1.0-SNAPSHOT'
+main: baimo.minecraft.plugins.enchantmentLimit.EnchantmentLimit
+api-version: '1.19'
+authors: [ Baimo ]
+description: EnchantmentLimit, allows server administrators to set limits on the maximum levels of enchantments that can be applied to items. It ensures that players cannot exceed these limits through various means such as enchanting tables, anvils, and item pickups.
+commands:
+  enchantmentlimit:
+    description: Main command for EnchantmentLimit plugin
+    usage: /<command> reload
+    permission: enchantmentlimit.reload
+permissions:
+  enchantmentlimit.reload:
+    description: Allows the player to reload the EnchantmentLimit plugin configuration
+    default: op
